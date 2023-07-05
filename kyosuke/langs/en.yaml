@@ -8,19 +8,19 @@ curr_chat_lang: "Hey. Your current language is {}, select the one you want from 
 set_chat_lang: "Great, {} it is from now on!"
 
 pm_start_text: |
-   Hi {}, I'm [{}](https://telegra.ph/file/1f5f7c2517b2151f3ab68.jpg),
+   Hi {}, I'm [{}](https://firebasestorage.googleapis.com/v0/b/baby-bawitlung-story.appspot.com/o/Image%20file%2Fphoto_2023-06-29_13-55-05.jpg?alt=media&token=9a69df60-9fd1-49b4-99c1-bffbdb5f1eeb),
    I am a modular group management bot with some fun extras ;)
    
-   I can do a kyosuke of things, and help u manage your group efficiently!
+   I can do a Jenny of things, and help u manage your group efficiently!
    
    All commands can be accessed by using: / or !
    *Click on help to learn more!*
 
 
-grp_start_text: "Hi, I'm kyosuke."
+grp_start_text: "Hi, I'm jenny."
 
 pm_help_text: |
-   Hello there! My name is *Kyosuke*.
+   Hello there! My name is *Jenny*.
    I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of
    the things I can help you with.
    *Main* commands available:
@@ -129,7 +129,7 @@ bans_help: |
 pub_help : |
     - <code>/unban</code> username or user id
 
-      <b>Powered By</b> @RendyTapiBot
+      <b>Powered By</b> @FamhawiteInfosys
 
 blak_help: |
        Blacklists are used to stop certain triggers from being said in a group. Any time the trigger is mentioned, the message will immediately be deleted. A good combo is sometimes to pair this up with warn filters!
@@ -292,9 +292,9 @@ antispam_help: |
 
      Anti-Spam, used by bot devs to ban spammers across all groups. This helps protect
      you and your groups by removing spam flooders as quickly as possible.
-     *Note:* Users can appeal gbans or report spammers at @YorkTownEagleUnion
+     *Note:* Users can appeal gbans or report spammers at @FamhawiteSpamAppeal
 
-     takehito also integrates @Spamwatch API to remove Spammers as much as possible from your chatroom!
+     Jenny also integrates @Spamwatch API to remove Spammers as much as possible from your chatroom!
      *What is SpamWatch?*
      SpamWatch maintains a large constantly updated ban-list of spambots, trolls, bitcoin spammers and unsavoury characters.
      Constantly help banning spammers off from your group automatically So, you wont have to worry about spammers storming your group.
@@ -336,7 +336,7 @@ locks_help: |
       • Unlocking permission *pin* will allow members (non-admins) to pinned a message in a group
 
 markdown_help_text: |
-      Markdown is a very powerful formatting tool supported by telegram. Kigyo has some enhancements, to make sure that
+      Markdown is a very powerful formatting tool supported by telegram. Jenny has some enhancements, to make sure that
       saved messages are correctly parsed, and to allow you to create buttons.
 
       - <code>_italic_</code>: wrapping text with '_' will produce italic text
